@@ -17,7 +17,7 @@ My name is Sakshi, and I am currently working as a Data Engineer at Citi (since 
   - 🗄️ SQL
   - ⚙️ Talend
   - 🤖 Gen AI Technologies (Copilot, Gemini, Devin AI)
-- **Responsibilities:** Building process automation within systems using advanced AI tools and data engineering practices.
+- **Responsibilities:** Building process automation within ETL workflow using advanced AI tools and data engineering practices.
 
 ## Skills 🎯
 
